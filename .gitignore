@@ -1,5 +1,7 @@
 ### https://raw.github.com/github/gitignore/d5ce0fc1d4a677eaa60d5b8e01ac9e42ec7cfcd1/Node.gitignore
 
+build/
+
 # Logs
 logs
 *.log
@@ -58,6 +60,4 @@ typings/
 
 # dotenv environment variables file
 .env
-
-
 
